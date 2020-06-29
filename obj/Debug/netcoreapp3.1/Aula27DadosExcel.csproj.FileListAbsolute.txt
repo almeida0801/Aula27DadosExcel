@@ -1,0 +1,13 @@
+C:\Users\pc\Downloads\Projeto\Aula27Excel\bin\Debug\netcoreapp3.1\Aula27DadosExcel.exe
+C:\Users\pc\Downloads\Projeto\Aula27Excel\bin\Debug\netcoreapp3.1\Aula27DadosExcel.deps.json
+C:\Users\pc\Downloads\Projeto\Aula27Excel\bin\Debug\netcoreapp3.1\Aula27DadosExcel.runtimeconfig.json
+C:\Users\pc\Downloads\Projeto\Aula27Excel\bin\Debug\netcoreapp3.1\Aula27DadosExcel.runtimeconfig.dev.json
+C:\Users\pc\Downloads\Projeto\Aula27Excel\bin\Debug\netcoreapp3.1\Aula27DadosExcel.dll
+C:\Users\pc\Downloads\Projeto\Aula27Excel\bin\Debug\netcoreapp3.1\Aula27DadosExcel.pdb
+C:\Users\pc\Downloads\Projeto\Aula27Excel\obj\Debug\netcoreapp3.1\Aula27DadosExcel.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Projeto\Aula27Excel\obj\Debug\netcoreapp3.1\Aula27DadosExcel.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula27Excel\obj\Debug\netcoreapp3.1\Aula27DadosExcel.AssemblyInfo.cs
+C:\Users\pc\Downloads\Projeto\Aula27Excel\obj\Debug\netcoreapp3.1\Aula27DadosExcel.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula27Excel\obj\Debug\netcoreapp3.1\Aula27DadosExcel.dll
+C:\Users\pc\Downloads\Projeto\Aula27Excel\obj\Debug\netcoreapp3.1\Aula27DadosExcel.pdb
+C:\Users\pc\Downloads\Projeto\Aula27Excel\obj\Debug\netcoreapp3.1\Aula27DadosExcel.genruntimeconfig.cache
